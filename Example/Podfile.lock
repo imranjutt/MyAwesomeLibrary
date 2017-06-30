@@ -1,0 +1,16 @@
+PODS:
+  - MyAwesomeLibrary (0.1.0)
+
+DEPENDENCIES:
+  - MyAwesomeLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  MyAwesomeLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MyAwesomeLibrary: e7225a1c697ce00e07808a41ef9e5464d8ec29c8
+
+PODFILE CHECKSUM: 9c327923da0f2619bf2188a9cc9fc6b346cc3d82
+
+COCOAPODS: 1.2.1
